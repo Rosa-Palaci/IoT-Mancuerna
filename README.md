@@ -3,7 +3,7 @@
  <img src="fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
 </p>
 
-<h2 align="center">GSL Final Course - ITA & Tecnológico de Monterrey</h2>
+<h2 align="center">Team Mancuerna</h2>
 
 <div align="center">
 
