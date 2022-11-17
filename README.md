@@ -43,7 +43,7 @@ This is the repository of _Team Mancuerna_, composed of
 
 ## Scenario Description <a name = "scenario_desc"></a>
 
-[![IMAGE_ALT](https://img.youtube.com/vi/PPkjYf4rd_E/0.jpg)](https://www.youtube.com/embed/PPkjYf4rd_E)
+[![IMAGE_ALT]([https://img.youtube.com/vi/PPkjYf4rd_E/0.jpg)](https://www.youtube.com/embed/PPkjYf4rd_E](https://www.youtube.com/watch?v=2oMoRYVKHW8&ab_channel=7NEWSAustralia))
 
 The scenarion this project is focused on improving the response of natural and human-caused disasters. During these events, some communities are left uncommunicated, making it very difficult to get help where it is needed. Our proposed solution involves an Android app, which users can connect to via a network of drones. We will be applying concepts such as Internet of Things, Virtual Machines, Data Bases and Digital Systems.
 
