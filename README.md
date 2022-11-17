@@ -1,7 +1,5 @@
-<p align="center">
-  ![Logo](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue-small.png)
-</p>
-  
+![Logo](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue-small.png)
+
 <p align="center">
   <a href="" rel="noopener">
  <img src="fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
@@ -32,13 +30,15 @@
 ## About the Team <a name = "about"></a>
 
 This is the repository of _Team Mancuerna_, composed of
+  
 
-Tec students                                          ITA Students
-- Rosa Vanessa Palacios Beltrán   A01652612           - Arthur Jose de Sousa Rodrigues  STUDENT ID
-- Alejandro Pozos Aguirre         A01656017           - Gabriel Teixeira Rodrigues      STUDENT ID
-- Gael González Arbesú            A01611800           - Jorge Marcio Lopes Costa        STUDENT ID
-- Jonathan Josué Fuentes Ramírez  A01661894           - Rodrigo Alves de Almeida        STUDENT ID
-- Adriana Paola Sollano Kim       A01653962
+| Tec students                                | ITA Students                                 |
+| ------------------------------------------- | -------------------------------------------- |
+| - Rosa Vanessa Palacios Beltrán   A01652612 | - Arthur Jose de Sousa Rodrigues  STUDENT ID |
+| - Alejandro Pozos Aguirre         A01656017 | - Gabriel Teixeira Rodrigues      STUDENT ID |
+| - Gael González Arbesú            A01611800 | - Jorge Marcio Lopes Costa        STUDENT ID |
+| - Jonathan Josué Fuentes Ramírez  A01661894 | - Rodrigo Alves de Almeida        STUDENT ID |
+| - Adriana Paola Sollano Kim       A01653962 | - NULL                                       |
 
 
 ## Scenario Description <a name = "scenario_desc"></a>
