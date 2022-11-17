@@ -1,4 +1,7 @@
-![Logo](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue-small.png)
+<p align="center">
+  ![Logo](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue-small.png)
+</p>
+  
 <p align="center">
   <a href="" rel="noopener">
  <img src="fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
