@@ -17,7 +17,6 @@ updates of this repo will be shown here
 - [Challenge stages](#stages)
 - [Sprints and Project Organization](#org)
 - [Files](#files)
-- [License](#license)
 - [Professors](#authors)
 
 
@@ -101,10 +100,6 @@ You can find our Trello [here](https://trello.com/b/mt1Vwk40/scrum-iot-mancuerna
 
 insert here the files we add with the format:
 [fileName](FILENAME.md)
-
-## License <a name = "license"></a>
-
-This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Professors <a name = "authors"></a>
 <table>
