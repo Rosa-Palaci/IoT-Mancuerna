@@ -1,18 +1,12 @@
-![Logo](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue-small.png)
-
 <p align="center">
   <a href="" rel="noopener">
- <img src="fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
+ <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue-small.png" width="400"></a>
 </p>
 
 <h2 align="center">Team Mancuerna</h2>
 
 <div align="center">
-
-![GitHub last commit](https://img.shields.io/github/last-commit/kabartsjc/gsl-iot)
-![GitHub issues](https://img.shields.io/github/issues/kabartsjc/gsl-iot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kabartsjc/gsl-iot)
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](/LICENSE)
+updates of this repo will be shown here
 </div>
 
 
@@ -23,7 +17,7 @@
 - [Challenge stages](#stages)
 - [Solution](SOLUTION_DESCRIPTION.md)
 - [Sprints and Project Organization](#org)
-- [Schedule](#schedule)
+- [Files](#files)
 - [License](#license)
 - [Professors](#authors)
 
@@ -31,15 +25,53 @@
 ## About the Team <a name = "about"></a>
 
 This is the repository of _Team Mancuerna_, composed of
+<table>
+  <tr>
+    <th> Tec Students <th>
+    <th> ITA Students <th>
+  </tr>
+  <tr>
+    <th> Rosa Vanessa Palacios Beltrán </th>
+    <th> A01652612 </th>
+    <th> Arthur Jose de Sousa Rodrigues </th>
+    <th> STUDENT ID </th>
+  </tr>
+
+  <tr>
+    <th> Alejandro Pozos Aguirre </th>
+    <th> A01656017 </th>
+    <th> Gabriel Teixeira Rodrigues </th>
+    <th> STUDENT ID </th>
+  </tr>
+
+  <tr>
+    <th> Gael González Arbesú </th>
+    <th> A01611800 </th>
+    <th> Jorge Marcio Lopes Costa </th>
+    <th> STUDENT ID </th>
+  </tr>
+
+  <tr>
+    <th> Jonathan Josué Fuentes Ramírez </th>
+    <th> A01661894 </th>
+    <th> Rodrigo Alves de Almeida </th>
+    <th> STUDENT ID </th>
+  </tr>
   
-| Tec students                     | Matrícula    | ITA Students                      | Matrícula    |
-| ---------------------------------| -------------| ----------------------------------|--------------|
-| - Rosa Vanessa Palacios Beltrán  | - A01652612  | - Arthur Jose de Sousa Rodrigues  | - STUDENT ID |
-| - Alejandro Pozos Aguirre        | - A01656017  | - Gabriel Teixeira Rodrigues      | - STUDENT ID |
-| - Gael González Arbesú           | - A01611800  | - Jorge Marcio Lopes Costa        | - STUDENT ID |
-| - Jonathan Josué Fuentes Ramírez | - A01661894  | - Rodrigo Alves de Almeida        | - STUDENT ID |
-| - Adriana Paola Sollano Kim      | - A01653962  | - NULL                            | - NULL       |
-| - César Andrés Ceballos Castillo | - A01661893  | - NULL                            | - NULL       |
+  <tr>
+    <th> Adriana Paola Sollano Kim </th>
+    <th> A01653962 </th>
+    <th>  </th>
+    <th>  </th>
+  </tr>
+  
+  <tr>
+    <th> César Andrés Ceballos Castillo </th>
+    <th> A01661893 </th>
+    <th>  </th>
+    <th>  </th>
+  </tr>
+</table>
 
 
 ## Scenario Description <a name = "scenario_desc"></a>
@@ -71,33 +103,25 @@ You can find our Trello [here](https://trello.com/b/mt1Vwk40/scrum-iot-mancuerna
 insert here the files we add with the format:
 [fileName](FILENAME.md)
 
-## :memo: License <a name = "license"></a>
+## License <a name = "license"></a>
 
 This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## ✍️ Professors <a name = "authors"></a>
+## Professors <a name = "authors"></a>
 <table>
 <tr>
-  <th> <img src="fig/barreto.png" alt="Alexandre Barreto" width="80px" height="45px"> </th>
   <th> <a href="https://github.com/kabartsjc" rel="noopener">Alexandre Barreto [@kabartsjc]</a> </th>
-  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
 </tr>
 
 <tr>
-  <th> <img src="fig/luis@tec.jpg" alt="Luis José González" width="80px" height="65px"> </th>
   <th> <a href="https://github.com/luisjglz" rel="noopener">Luis José González [@luisjglz]</a> </th>
-  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
 </tr>
 
 <tr>
-  <th> <img src="fig/Luis.jpeg" alt="Luis Yépez Pérez" width="80px" height="65px"> </th>
   <th> <a href="https://www.researchgate.net/profile/Luis-Yepez-Perez" rel="noopener">Luis Yépez Pérez</a> </th>
-  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
 </tr>
 
 <tr>
-  <th> <img src="fig/marcondes.jpg" alt="Cesar A. C. Marcondes" width="60px" height="45px"> </th>
   <th> <a href="https://github.com/cmarcond" rel="noopener">Cesar A. C. Marcondes [@cmarcond]</a> </th>
-  <th> <img src="fig/ITA_logo.png" alt="Instituto Tecnológico de Aeronáutica" width="80px" height="45px"> </th>
 </tr>
 </table>
