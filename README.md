@@ -38,7 +38,8 @@ This is the repository of _Team Mancuerna_, composed of
 | - Alejandro Pozos Aguirre        | - A01656017  | - Gabriel Teixeira Rodrigues      | - STUDENT ID |
 | - Gael González Arbesú           | - A01611800  | - Jorge Marcio Lopes Costa        | - STUDENT ID |
 | - Jonathan Josué Fuentes Ramírez | - A01661894  | - Rodrigo Alves de Almeida        | - STUDENT ID |
-| - Adriana Paola Sollano Kim      | - A01653962  | - NULL                            |              |
+| - Adriana Paola Sollano Kim      | - A01653962  | - NULL                            | - NULL       |
+| - César Andrés Ceballos Castillo | - A01661893  | - NULL                            | - NULL       |
 
 
 ## Scenario Description <a name = "scenario_desc"></a>
