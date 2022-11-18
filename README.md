@@ -47,6 +47,17 @@ This is the repository of _Team Mancuerna_, composed of
 
 The scenarion this project is focused on improving the response of natural and human-caused disasters. During these events, some communities are left uncommunicated, making it very difficult to get help where it is needed. Our proposed solution involves an Android app, which users can connect to via a network of drones. We will be applying concepts such as Internet of Things, Virtual Machines, Data Bases and Digital Systems.
 
+## Challenge stages <a name = "stages"></a>
+
+The IoT challenge is developed in four stages, which are carried out throughout each period, taking place in parallel with the learning activities of the thematic modules of the Block; the four stages are distributed as follows:
+
+- Stage 1. Identification of the problem: At this moment the definition of the project is carried out, identifying the knowledge that is required to carry it out, as well as the resources that will be needed; This stage implies an analysis of the requirements of the challenge (problem to be solved), as well as the determination of alternatives to design and implement a system that meets this purpose.
+
+- Stage 2. Conceptual design: In this stage, the conceptual design of a system whose operation meets the requirements of the challenge will be required. This will imply the specification and description of tests for its components, both "hardware" and "software".
+
+- Stage 3. Implementation of the prototype: During this time the implementation of the conceptual design will be carried out, to achieve the integration of the components in a prototype of the IoT system; This implementation implies the construction of the electronic systems (in "breadboard") for the connection of system sensors and actuators, as well as the implementation of the programs that control and coordinate their integrated operation through the Internet considering usability and design. user centered.
+
+- Stage 4. Validation: In this stage, all test cases of the fully integrated IoT system must be validated; In addition, it will be elaborated to have the documentation of the functional system.
 
 ## Sprints and Project Organization <a name = "org"></a>
 
