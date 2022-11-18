@@ -12,8 +12,9 @@ updates of this repo will be shown here
 
 ## Table of Contents
 
-- [About the Team](#about)
+- [About the Team](##about)
 - [Scenario Description](#scenario_desc)
+- [Challenge stages](#stages)
 - [Solution](SOLUTION_DESCRIPTION.md)
 - [Sprints and Project Organization](#org)
 - [Files](#files)
@@ -71,6 +72,7 @@ This is the repository of _Team Mancuerna_, composed of
     <th>  </th>
   </tr>
 </table>
+
 
 ## Scenario Description <a name = "scenario_desc"></a>
 
