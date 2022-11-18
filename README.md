@@ -18,8 +18,9 @@
 
 ## Table of Contents
 
-- [About the Team](#about)
+- [About the Team](##about)
 - [Scenario Description](#scenario_desc)
+- [Challenge stages](#stages)
 - [Solution](SOLUTION_DESCRIPTION.md)
 - [Sprints and Project Organization](#org)
 - [Schedule](#schedule)
@@ -31,7 +32,6 @@
 
 This is the repository of _Team Mancuerna_, composed of
   
-
 | Tec students                     | Matrícula    | ITA Students                      | Matrícula    |
 | ---------------------------------| -------------| ----------------------------------|--------------|
 | - Rosa Vanessa Palacios Beltrán  | - A01652612  | - Arthur Jose de Sousa Rodrigues  | - STUDENT ID |
