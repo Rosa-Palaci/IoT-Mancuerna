@@ -16,6 +16,7 @@ updates of this repo will be shown here
 - [Scenario Description](#scenario_desc)
 - [Challenge stages](#stages)
 - [Sprints and Project Organization](#org)
+- [Client and Edge Stages](#client_edge)
 - [Files](#files)
 - [Professors](#authors)
 
@@ -95,6 +96,12 @@ The IoT challenge is developed in four stages, which are carried out throughout 
 We will be using the agile method of Scrum to organize this project.
 You can find our Trello [here](https://trello.com/b/mt1Vwk40/scrum-iot-mancuerna).
 
+
+## Client and Edge Stages <a name = "client_edge"></a>
+
+To run the emulation environment, it is necessary to add the myuav.py in the folder examples/uav/ of this [repo](https://github.com/intrig-unicamp/mininet-wifi), and then run 'sudo python examples/uav/myuav.py'
+
+The emulation was tested in Ubuntu 20.04
 
 ## Files <a name = "files"></a>
 
