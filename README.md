@@ -99,7 +99,11 @@ You can find our Trello [here](https://trello.com/b/mt1Vwk40/scrum-iot-mancuerna
 
 ## Client and Edge Stages <a name = "client_edge"></a>
 
-To run the emulation environment, it is necessary to add the myuav.py in the folder examples/uav/ of this [repo](https://github.com/intrig-unicamp/mininet-wifi), and then run 'sudo python examples/uav/myuav.py'
+To run the emulation environment, it is necessary to install mosquitto on the machine and add the files bridge1_central.conf, central_mosquitto.conf and the uav.py in the folder examples/uav/ of this [repo](https://github.com/intrig-unicamp/mininet-wifi), and then run 'sudo python examples/uav/uav.py'
+
+Here we can see videos of the emulation and client running:
+
+
 
 The emulation was tested in Ubuntu 20.04
 
