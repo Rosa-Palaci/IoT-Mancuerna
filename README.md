@@ -103,7 +103,7 @@ To run the emulation environment, it is necessary to install mosquitto on the ma
 
 Here we can see videos of the emulation and client running:
 
-
+https://www.youtube.com/channel/UCKHoYAJj7DRsQxpSUnv_jQw
 
 The emulation was tested in Ubuntu 20.04
 
