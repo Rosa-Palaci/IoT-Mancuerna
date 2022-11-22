@@ -6,7 +6,6 @@
 <h2 align="center">Team Mancuerna</h2>
 
 <div align="center">
-updates of this repo will be shown here
 </div>
 
 
