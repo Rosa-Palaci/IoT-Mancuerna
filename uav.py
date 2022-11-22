@@ -111,6 +111,14 @@ def topology():
     dr2.cmdPrint('route add default gw 10.0.0.4')
     dr3.cmdPrint('route add default gw 10.0.0.4')
 
+    # Run mosquitto central on h1
+    h1.cmdPrint('mosquitto -c ./examples/uav/central_mosquitto.conf -v -d')
+
+    # Run mosquittos bridges on drones
+    dr1.cmdPrint('mosquitto -c ./examples/uav/bridge1_central.conf -v -d')
+    dr2.cmdPrint('mosquitto -c ./examples/uav/bridge1_central.conf -v -d')
+    dr3.cmdPrint('mosquitto -c ./examples/uav/bridge1_central.conf -v -d')
+
     info("*** Running CLI\n")
     CLI(net)
 
