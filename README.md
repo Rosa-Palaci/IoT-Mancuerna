@@ -5,7 +5,7 @@
 
 <h2 align="center">Team Mancuerna</h2>
 
-<div align="center">
+<div align="center">Last updated: 21-11-2022
 </div>
 
 
@@ -109,8 +109,8 @@ The emulation was tested in Ubuntu 20.04
 ## Files <a name = "files"></a>
 
 21-11-2022: [Added Android MQTT file](https://drive.google.com/file/d/1TmY5XhKw8CG3bGLYpq1ryeDlie939F2-/view?usp=sharing).
-21-11-2022: [Added bridge1_central.conf](bridge1_central.conf)
-21-11-2022: [Added central_mosquitto.conf](central_mosquitto.conf)
+21-11-2022: [Added bridge1_central.conf](bridge1_central.conf).
+21-11-2022: [Added central_mosquitto.conf](central_mosquitto.conf).
 
 ## Professors <a name = "authors"></a>
 <table>
