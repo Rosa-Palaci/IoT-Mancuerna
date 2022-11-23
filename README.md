@@ -64,8 +64,8 @@ This is the repository of _Team Mancuerna_, composed of
   </tr>
   
   <tr>
-    <th> César Andrés Ceballos Castillo </th>
-    <th> A01661893 </th>
+    <th> Carlos Anaya Ruiz </th>
+    <th> A01662464 </th>
     <th>  </th>
     <th>  </th>
   </tr>
