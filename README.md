@@ -5,7 +5,7 @@
 
 <h2 align="center">Team Mancuerna</h2>
 
-<div align="center">Last updated: 21-11-2022
+<div align="center">Last updated: 23-11-2022
 </div>
 
 
@@ -76,7 +76,7 @@ This is the repository of _Team Mancuerna_, composed of
 
 [![Alt text](https://img.youtube.com/vi/PPkjYf4rd_E/0.jpg)](https://www.youtube.com/watch?v=PPkjYf4rd_E)
 
-The scenarion this project is focused on improving the response of natural and human-caused disasters. During these events, some communities are left uncommunicated, making it very difficult to get help where it is needed. Our proposed solution involves an Android app, which users can connect to via a network of drones. We will be applying concepts such as Internet of Things, Virtual Machines, Data Bases and Digital Systems.
+The scenario this project is focused on improving the response of natural and human-caused disasters. During these events, some communities are left uncommunicated, making it very difficult to get help where it is needed. Our proposed solution involves an Android app, which users can connect to via a network of drones. We will be applying concepts such as Internet of Things, Virtual Machines, Data Bases and Digital Systems.
 
 ## Challenge stages <a name = "stages"></a>
 
