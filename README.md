@@ -19,6 +19,7 @@
 - [Visualization of technical architecture](#tech_arch)
 - [Set-up](#set_up)
 - [Files](#files)
+- [Licence](#licence)
 - [Professors](#authors)
 
 
@@ -132,6 +133,9 @@ The emulation was tested in Ubuntu 20.04
 2-12-2022: [Added subscribe folder](https://github.com/Rosa-Palaci/IoT-Mancuerna/tree/main/subscribe)
 2-12-2022: [Added uav.py](uav.py)
 2-12-2022: [Added LICENCE.md](LICENCE.md)
+
+## Licence <a name = "licence"></a>
+[Licence](LICENCE.md)
 
 ## Professors <a name = "authors"></a>
 <table>
