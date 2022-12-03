@@ -16,6 +16,8 @@
 - [Challenge stages](#stages)
 - [Sprints and Project Organization](#org)
 - [Client and Edge Stages](#client_edge)
+- [Visualization of technical architecture](#tech_arch)
+- [Set-up](#set_up)
 - [Files](#files)
 - [Professors](#authors)
 
@@ -112,6 +114,15 @@ Here we can see videos of the emulation and client running:
 https://www.youtube.com/channel/UCKHoYAJj7DRsQxpSUnv_jQw
 
 The emulation was tested in Ubuntu 20.04
+
+## Visualization of technical architecture <a name = "tech_arch"></a>
+![WhatsApp Image 2022-12-02 at 8 36 11 PM](https://user-images.githubusercontent.com/38257870/205418547-89eb96de-e396-4cca-ace6-41c10b48f702.jpeg)
+
+
+
+## Set-up <a name = "set_up"></a>
+<img width="852" alt="Screen Shot 2022-12-02 at 20 34 16" src="https://user-images.githubusercontent.com/38257870/205418340-9a188c47-582b-4562-85e9-c4e54db99cad.png">
+
 
 ## Files <a name = "files"></a>
 
