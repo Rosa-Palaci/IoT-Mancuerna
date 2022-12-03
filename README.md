@@ -5,7 +5,7 @@
 
 <h2 align="center">Team Mancuerna</h2>
 
-<div align="center">Last updated: 01-12-2022
+<div align="center">Last updated: 02-12-2022
 </div>
 
 
@@ -39,21 +39,21 @@ This is the repository of _Team Mancuerna_, composed of
     <th> Alejandro Pozos Aguirre </th>
     <th> A01656017 </th>
     <th> Gabriel Teixeira Rodrigues </th>
-    <th> STUDENT ID </th>
+    <th> Add here Student ID please </th>
   </tr>
 
   <tr>
     <th> Gael González Arbesú </th>
     <th> A01611800 </th>
     <th> Jorge Marcio Lopes Costa </th>
-    <th> STUDENT ID </th>
+    <th> Add here Student ID please </th>
   </tr>
 
   <tr>
     <th> Jonathan Josué Fuentes Ramírez </th>
     <th> A01661894 </th>
     <th> Rodrigo Alves de Almeida </th>
-    <th> STUDENT ID </th>
+    <th> Add here Student ID please </th>
   </tr>
   
   <tr>
@@ -66,6 +66,13 @@ This is the repository of _Team Mancuerna_, composed of
   <tr>
     <th> Carlos Anaya Ruiz </th>
     <th> A01662464 </th>
+    <th>  </th>
+    <th>  </th>
+  </tr>
+  
+  <tr>
+    <th> César Andrés Ceballos Castillo </th>
+    <th> A01661893 </th>
     <th>  </th>
     <th>  </th>
   </tr>
@@ -111,6 +118,9 @@ The emulation was tested in Ubuntu 20.04
 21-11-2022: [Added Android MQTT file](https://drive.google.com/file/d/1TmY5XhKw8CG3bGLYpq1ryeDlie939F2-/view?usp=sharing).
 21-11-2022: [Added bridge1_central.conf](bridge1_central.conf).
 21-11-2022: [Added central_mosquitto.conf](central_mosquitto.conf).
+2-12-2022: [Added subscribe folder](https://github.com/Rosa-Palaci/IoT-Mancuerna/tree/main/subscribe)
+2-12-2022: [Added uav.py](uav.py)
+2-12-2022: [Added LICENCE.md](LICENCE.md)
 
 ## Professors <a name = "authors"></a>
 <table>
